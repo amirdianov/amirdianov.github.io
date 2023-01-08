@@ -1,2 +1,1 @@
 # amirdianov.github.io
-Резюме
