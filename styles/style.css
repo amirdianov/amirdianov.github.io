@@ -1,39 +1,57 @@
 body {
-  font-family: Roboto, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: Roboto, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 a {
-  color: #2656E8;
+    color: #2656E8;
 }
+
 img {
     max-width: 100%;
     max-height: 100%;
     border-radius: 50%;
 }
+
 header h1 {
-  color: #2656E8;
-  font-size: 70px;
-  line-height: 1;
-  margin: 0;
-  margin-top: 20px;
+    color: #2656E8;
+    font-size: 70px;
+    line-height: 1;
+    margin: 0;
+    margin-top: 20px;
 }
-header h2{
+
+header h2 {
     color: #848484;
     font-size: 24px;
     line-height: 1;
     margin: 0;
     margin-top: 20px;
 }
-header .social_icons{
+
+header .social_icons {
     line-height: 1;
     margin: 0;
     margin-top: 20px;
 }
+
 main h2 {
-  color: #2656E8;
-  font-size: 30px;
-  line-height: 1;
-  margin: 0;
-  margin-top: 20px;
-  margin-bottom: 20px;
+    color: #2656E8;
+    font-size: 30px;
+    line-height: 1;
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+main h5 {
+    color: #2656E8;
+    line-height: 1;
+}
+
+
+.text-muted {
+    color: #848484;
+}
+
+#main a {
+    font-size: 18px
 }
