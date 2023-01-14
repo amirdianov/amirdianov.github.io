@@ -42,9 +42,19 @@ main h2 {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
 main h5 {
     color: #2656E8;
     line-height: 1;
+}
+
+.education .left {
+    color: #2656E8;
+    font-size: 18px;
+
+}
+.education .right {
+    color: #2656E8;
 }
 
 
