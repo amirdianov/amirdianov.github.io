@@ -53,8 +53,16 @@ main h5 {
     font-size: 18px;
 
 }
+
 .education .right {
     color: #2656E8;
+}
+
+.tag {
+    border: 2px solid #5d80ec;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 4px;
 }
 
 
